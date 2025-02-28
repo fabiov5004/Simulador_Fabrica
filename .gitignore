@@ -1,0 +1,9 @@
+# ignorar o arquivo de configuração com as senhas
+.env
+Simulação_Fabrica.html
+anotacao.parquet
+cooperados.parquet
+crl.parquet
+dados_cadastrais.parquet
+scr.parquet
+

@@ -1,0 +1,1 @@
+SELECT * FROM inteligencia_credito_dados.DiarioBaseCadastral
