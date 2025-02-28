@@ -6,4 +6,5 @@ cooperados.parquet
 crl.parquet
 dados_cadastrais.parquet
 scr.parquet
-
+ssh-keygen -t ed25519 -C seu_email@example.com
+ssh-keygen -t ed25519 -C seu_email@example.com.pub
